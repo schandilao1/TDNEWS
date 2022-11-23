@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TDNEWS/static/css/main.e6c13ad2.css",
+    "main.js": "/TDNEWS/static/js/main.ce766cef.js",
+    "static/js/787.1eefe8fb.chunk.js": "/TDNEWS/static/js/787.1eefe8fb.chunk.js",
+    "index.html": "/TDNEWS/index.html",
+    "main.e6c13ad2.css.map": "/TDNEWS/static/css/main.e6c13ad2.css.map",
+    "main.ce766cef.js.map": "/TDNEWS/static/js/main.ce766cef.js.map",
+    "787.1eefe8fb.chunk.js.map": "/TDNEWS/static/js/787.1eefe8fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ce766cef.js"
+  ]
+}
